@@ -1,2 +1,2 @@
 # fifthStrategy
-Project for UHack 4.0
+ADBMS project Christ University
